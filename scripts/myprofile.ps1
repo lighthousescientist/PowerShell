@@ -1,0 +1,1 @@
+$env:path = "$env:path;C:\Users\Will.Bonnie-PC\Documents\GitHub\PowerShell\scripts"
